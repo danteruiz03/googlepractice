@@ -1,1 +1,1 @@
-This serves as a practice repository
+Google web page using plain html and css
